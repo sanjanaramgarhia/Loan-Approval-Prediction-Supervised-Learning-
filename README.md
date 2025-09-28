@@ -40,13 +40,9 @@ Decision Tree,
 Support Vector Machine (SVM),
 Gaussian Naive Bayes.
 
-Compared performance on accuracy & confusion matrix.
+Evaluation:
 
-Evaluation
-
-Confusion Matrix, Precision, Recall, F1-Score
-
-ROC-AUC (if applicable)
+Confusion Matrix, Precision, Recall, F1-Score.
 
 📊 Results
 
