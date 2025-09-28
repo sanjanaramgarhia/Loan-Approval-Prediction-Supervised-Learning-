@@ -24,30 +24,20 @@ Scikit-learn → ML models & evaluation.
 
 🚀 Workflow
 
-Data Preprocessing
-
-Handle missing values
-
-Encode categorical variables (e.g., Gender, Marital Status)
-
-Normalize numeric features if required
-
-EDA
-
-Visualized loan approval distribution
-
-Checked correlations between applicant details and approval status
-
-Modeling
+1. Data Preprocessing.
+2. Handle missing values.
+3. Encode categorical variables (e.g., Gender, Marital Status).
+4. Normalize numeric features.
+5. EDA.
+6. loan approval distribution.
+7. Checked correlations between applicant details and approval status.
+8. Modeling.
 
 Tried multiple classifiers:
 
-Logistic Regression
-
-Decision Tree
-
-Support Vector Machine (SVM)
-
+Logistic Regression,
+Decision Tree,
+Support Vector Machine (SVM),
 Gaussian Naive Bayes.
 
 Compared performance on accuracy & confusion matrix.
